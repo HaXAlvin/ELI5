@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+*.zst
+data_creation/processed_data/explainlikeimfive_qalist.json
